@@ -9,5 +9,8 @@ projeto/*.exe
 struct/*.exe
 vetores-e-strings/Lista1/*.exe
 vetores-e-strings/Lista2/*.exe
+UFAL/exercicios/entregues/*.exe
+UFAL/exercicios/TheHuxley/*.exe
+UFAL/exercicios/Treinar/*.exe
 
 
